@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_notifications"
+        android:icon="@drawable/patirnt_action"
+        android:title="Пациенты" />
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/time_action"
+        android:title="Назначить дату" />
+    <item
+        android:id="@+id/nav_russ"
+        android:icon="@drawable/exit_action"
+        android:title="Выйти" />
+</menu>
